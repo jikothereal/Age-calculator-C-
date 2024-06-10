@@ -1,0 +1,11 @@
+C:\Users\augus_\source\repos\skibidi\skibidi\bin\Debug\skibidi.exe.config
+C:\Users\augus_\source\repos\skibidi\skibidi\bin\Debug\skibidi.exe
+C:\Users\augus_\source\repos\skibidi\skibidi\bin\Debug\skibidi.pdb
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.csproj.AssemblyReference.cache
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.Form1.resources
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.Properties.Resources.resources
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.csproj.GenerateResource.cache
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.csproj.CoreCompileInputs.cache
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.exe
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.pdb
+C:\Users\augus_\source\repos\skibidi\skibidi\obj\Debug\skibidi.CalculatingForm.resources
